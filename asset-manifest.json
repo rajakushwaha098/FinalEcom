@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FinalEcom/static/css/main.56d04146.css",
+    "main.js": "/FinalEcom/static/js/main.64a59726.js",
+    "static/js/787.34115356.chunk.js": "/FinalEcom/static/js/787.34115356.chunk.js",
+    "index.html": "/FinalEcom/index.html",
+    "main.56d04146.css.map": "/FinalEcom/static/css/main.56d04146.css.map",
+    "main.64a59726.js.map": "/FinalEcom/static/js/main.64a59726.js.map",
+    "787.34115356.chunk.js.map": "/FinalEcom/static/js/787.34115356.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56d04146.css",
+    "static/js/main.64a59726.js"
+  ]
+}
